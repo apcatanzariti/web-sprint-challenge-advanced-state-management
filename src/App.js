@@ -8,6 +8,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import "./App.css";
 
 class App extends Component {
+
+  // componentDidMount here call the fetchSmurfs action
+
   render() {
     return (
       <div className="App">
